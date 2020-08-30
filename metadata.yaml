@@ -1,0 +1,37 @@
+_repo: Storia-della-musica_62987
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Untersteiner, Alfredo
+    birthdate: 1859
+    deathdate: 1918
+    gutenberg_agent_id: '52214'
+    url: http://www.gutenberg.org/2009/agents/52214
+description: ''
+gutenberg_issued: '2020-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62987'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Music -- History and criticism'
+- GITenberg
+tableOfContents: 'Introduzione -- La musica dei Greci -- I primi secoli dell''Era
+  cristiana -- I primordi dell''armonia: Ubaldo e Guido d''Arezzo -- La musica mensurale
+  ed i precursori dei Fiamminghi -- I Fiamminghi -- Le canzoni popolari: Trovatori
+  e Minnesänger -- L''«Ars nova» fiorentina ed il Rinascimento musicale in Italia
+  -- Misteri e Passioni: Origine dell''opera -- Claudio Monteverdi e l''opera veneziana
+  e napolitana -- L''opera francese, tedesca ed inglese -- Martin Lutero e la musica
+  protestante: Bach e Händel -- La musica monodica da camera e l''arte del canto fino
+  al sec. XIX: Teatri e decorazioni -- La musica istrumentale prima del secolo XIX
+  -- Gluck e la riforma dell''opera -- Haydn; Mozart; Beethoven -- L''opera romantica
+  e la grand''opera francese -- Gioachino Rossini e l''opera italiana del secolo XIX
+  -- Francesco Schubert ed i romantici -- I rivoluzionari dell''arte -- Scuole nazionali
+  -- La musica italiana, francese e tedesca dei nostri giorni -- L''ora presente --
+  Cantanti, virtuosi e scrittori di cose musicali.'
+title: Storia della musica
+url: http://www.gutenberg.org/ebooks/62987
