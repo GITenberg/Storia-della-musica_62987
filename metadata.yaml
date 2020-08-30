@@ -1,5 +1,8 @@
 _repo: Storia-della-musica_62987
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62987-h/images/cover.jpg
 creator:
   author:
     agent_name: Untersteiner, Alfredo
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52214'
     url: http://www.gutenberg.org/2009/agents/52214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62987#Storia-della-musica
 gutenberg_issued: '2020-08-20'
 gutenberg_type: Text
 identifiers:
